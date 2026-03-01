@@ -1,0 +1,13 @@
+[package]
+name = "apex-mcp"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+apex-common = { path = "../apex-common" }
+serde.workspace = true
+serde_json.workspace = true
+tokio.workspace = true
+rmcp = { version = "0.3", features = ["server", "transport-io", "macros"] }
+anyhow = "1"
+uuid = { version = "1", features = ["v4"] }

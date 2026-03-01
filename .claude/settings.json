@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "apex": {
+      "command": "./target/debug/apex-mcp",
+      "cwd": "/Users/harsh/Desktop/apex"
+    }
+  }
+}
