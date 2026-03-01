@@ -10,6 +10,10 @@ Speak your intent in natural language and Claude spawns rich, interactive termin
 
 ![Apex Architecture](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust) ![License](https://img.shields.io/badge/license-MIT-blue)
 
+## Demo
+
+<video src="https://github.com/harsh7z/apex/raw/main/demo.mov" controls width="100%"></video>
+
 ## How It Works
 
 ```
@@ -41,7 +45,7 @@ Claude controls the widgets through MCP tools. You interact with widgets directl
 ### 1. Clone and build
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/apex.git
+git clone https://github.com/harsh7z/apex.git
 cd apex
 cargo build --release
 ```
