@@ -12,7 +12,7 @@ Speak your intent in natural language and Claude spawns rich, interactive termin
 
 ## Demo
 
-<video src="https://github.com/harsh7z/apex/raw/main/demo.mov" controls width="100%"></video>
+https://github.com/harsh7z/apex/raw/main/demo.mov
 
 ## How It Works
 
